@@ -1,6 +1,6 @@
 # OOP Chat Agent
 
-This project is a chat agent specialized in Object-Oriented Programming (OOP) using the OpenAI API.
+This project is a chat agent specialized in Python Object-Oriented Programming (OOP) using the OpenAI API.
 
 ## Setup
 
